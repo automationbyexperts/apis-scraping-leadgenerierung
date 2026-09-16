@@ -1,0 +1,349 @@
+{
+ "repo": "apis-scraping-leadgenerierung",
+ "title": "Scraping-APIs für Leadgenerierung",
+ "tagline": "Die meistgenutzten Apify-Scraper für Leadgenerierung, sortiert nach echten Nutzern pro Monat: Unternehmen aus Google Maps, E-Mails und Telefonnummern, LinkedIn- und B2B-Daten, Gelbe Seiten, Handelsregister und Quellen aus Deutschland, Österreich und der Schweiz. Ohne Programmierung, Export als CSV, Excel oder ins CRM.",
+ "brand": "AutomationByExperts",
+ "storeCategory": "LEAD_GENERATION",
+ "storeCategoryLabel": "Lead generation",
+ "fetchLimit": 1500,
+ "topCount": 25,
+ "intro": "Eine kuratierte, wöchentlich aktualisierte Liste der {count} Lead-Generation-Actors, die tatsächlich genutzt werden, ausgewählt aus den {storeTotal} Actors der Kategorie Lead Generation im Apify Store, plus lokale Tools für Deutschland, Österreich und die Schweiz. Actors, die in den letzten 30 Tagen niemand gestartet hat, fliegen raus, und jeder ist nach seiner Leadquelle einsortiert. So finden Sie in Sekunden ein funktionierendes Tool für lokale Akquise, B2B-Kontakte, E-Mail-Suche oder Datenanreicherung.",
+ "languages": [
+  {
+   "label": "English",
+   "repo": "lead-generation-scraping-apis"
+  },
+  {
+   "label": "Español",
+   "repo": "apis-scraping-generacion-de-leads"
+  },
+  {
+   "label": "Português",
+   "repo": "apis-scraping-geracao-de-leads"
+  },
+  {
+   "label": "Français",
+   "repo": "apis-scraping-generation-de-leads"
+  },
+  {
+   "label": "Ελληνικά",
+   "repo": "apis-scraping-leads-greece"
+  },
+  {
+   "label": "Deutsch",
+   "repo": "apis-scraping-leadgenerierung"
+  },
+  {
+   "label": "Italiano",
+   "repo": "apis-scraping-lead-generation-italia"
+  }
+ ],
+ "thousandsSeparator": ".",
+ "exampleActor": "compass/crawler-google-places",
+ "exampleInput": {
+  "searchStringsArray": [
+   "Zahnarzt"
+  ],
+  "locationQuery": "München, Deutschland",
+  "maxCrawledPlacesPerSearch": 50,
+  "language": "de"
+ },
+ "groups": [
+  {
+   "slug": "dach",
+   "title": "Deutschland, Österreich und Schweiz",
+   "blurb": "Lokale Leadquellen: Gelbe Seiten, Das Örtliche, 11880, Handelsregister und North Data, Xing, StepStone, kununu, Jameda, ImmoScout24, Herold.at, local.ch und Wer liefert was.",
+   "keywords": [
+    "gelbe seiten",
+    "gelbeseiten",
+    "das örtliche",
+    "das oertliche",
+    "dasoertliche",
+    "11880",
+    "handelsregister",
+    "unternehmensregister",
+    "northdata",
+    "north data",
+    "bundesanzeiger",
+    "firmenwissen",
+    "xing",
+    "stepstone",
+    "kununu",
+    "jameda",
+    "doctolib",
+    "myhammer",
+    "immoscout",
+    "immobilienscout",
+    "immowelt",
+    "kleinanzeigen",
+    "herold",
+    "local.ch",
+    "search.ch",
+    "moneyhouse",
+    "wer liefert was",
+    "wlw",
+    "europages",
+    "arbeitsagentur",
+    "jobs.ch",
+    "karriere.at",
+    "willhaben",
+    "germany",
+    "german",
+    "deutschland",
+    "austria",
+    "österreich",
+    "switzerland",
+    "schweiz",
+    "swiss",
+    "impressum",
+    "branchenbuch"
+   ]
+  },
+  {
+   "slug": "google-maps",
+   "title": "Google Maps und lokale Unternehmen",
+   "blurb": "Firmennamen, Adressen, Telefonnummern, Websites, Bewertungen und Rezensionen aus Google Maps. Der schnellste Weg zu einer lokalen Leadliste.",
+   "keywords": [
+    "google maps",
+    "google places",
+    "gmaps",
+    "google business",
+    "maps scraper",
+    "google my business",
+    "places scraper"
+   ]
+  },
+  {
+   "slug": "email-finders",
+   "title": "E-Mail- und Kontaktfinder",
+   "blurb": "E-Mail-Adressen, Telefonnummern und Social-Profile aus Websites, Domains oder Namen finden.",
+   "keywords": [
+    "email",
+    "e-mail",
+    "contact detail",
+    "contact info",
+    "phone number",
+    "contacts scraper",
+    "mail finder"
+   ]
+  },
+  {
+   "slug": "linkedin",
+   "title": "LinkedIn und B2B-Profile",
+   "blurb": "Personen- und Firmenprofile, Positionen, Mitarbeiter und Suchen im Stil des Sales Navigator auf LinkedIn.",
+   "keywords": [
+    "linkedin",
+    "sales navigator"
+   ]
+  },
+  {
+   "slug": "b2b-databases",
+   "title": "B2B-Firmendatenbanken",
+   "blurb": "Firmendaten, Entscheider und Listen aus Apollo, Crunchbase, ZoomInfo und ähnlichen B2B-Quellen.",
+   "keywords": [
+    "apollo",
+    "crunchbase",
+    "zoominfo",
+    "lusha",
+    "rocketreach",
+    "seamless",
+    "company data",
+    "companies house",
+    "company register",
+    "firmographic",
+    "b2b",
+    "leads database",
+    "people data",
+    "decision maker"
+   ]
+  },
+  {
+   "slug": "directories",
+   "title": "Branchenverzeichnisse und Bewertungen",
+   "blurb": "Yelp, Trustpilot, Clutch, TripAdvisor und weitere Verzeichnisse, in denen Firmen ihre Kontaktdaten veröffentlichen.",
+   "keywords": [
+    "yellow pages",
+    "yellowpages",
+    "yelp",
+    "trustpilot",
+    "clutch",
+    "bbb",
+    "tripadvisor",
+    "directory",
+    "g2",
+    "capterra",
+    "angi",
+    "thumbtack",
+    "houzz",
+    "justdial",
+    "pages jaunes",
+    "gelbe seiten",
+    "yell"
+   ]
+  },
+  {
+   "slug": "social-leads",
+   "title": "Leads aus Social Media",
+   "blurb": "Kontaktdaten und Zielgruppendaten aus Instagram-, Facebook-, TikTok-, X-, YouTube- und Reddit-Profilen.",
+   "keywords": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "twitter",
+    "youtube",
+    "reddit",
+    "threads",
+    "pinterest",
+    "telegram",
+    "whatsapp",
+    "discord",
+    "influencer"
+   ]
+  },
+  {
+   "slug": "enrichment-verification",
+   "title": "Anreicherung und Verifizierung",
+   "blurb": "E-Mails und Telefonnummern prüfen, Domains oder Personen um Felder ergänzen und die Leadliste vor dem Outreach bereinigen.",
+   "keywords": [
+    "email verif",
+    "verifier",
+    "validator",
+    "email validat",
+    "phone validat",
+    "enrichment",
+    "enrich",
+    "whois",
+    "tech stack",
+    "builtwith",
+    "wappalyzer",
+    "similarweb",
+    "skip trac",
+    "reverse phone",
+    "reverse email",
+    "people search",
+    "osint"
+   ]
+  },
+  {
+   "slug": "jobs-hiring-signals",
+   "title": "Einstellungssignale und Jobbörsen",
+   "blurb": "Unternehmen, die gerade einstellen: ein starkes Kaufsignal für Recruiter und den B2B-Vertrieb.",
+   "keywords": [
+    "job",
+    "indeed",
+    "glassdoor",
+    "hiring",
+    "career",
+    "recruit"
+   ]
+  }
+ ],
+ "fallbackGroup": {
+  "slug": "other-lead-sources",
+  "title": "Weitere Leadquellen",
+  "blurb": "Events, Marktplätze, Immobilienmakler, öffentliche Register und alle anderen Nischenquellen.",
+  "keywords": []
+ },
+ "extraSearches": [
+  {
+   "group": "dach",
+   "terms": [
+    "gelbe seiten",
+    "das örtliche",
+    "11880",
+    "handelsregister",
+    "northdata",
+    "xing",
+    "stepstone",
+    "kununu",
+    "jameda",
+    "immoscout24",
+    "herold",
+    "local.ch",
+    "wer liefert was",
+    "impressum",
+    "germany companies",
+    "willhaben",
+    "branchenbuch",
+    "moneyhouse"
+   ]
+  }
+ ],
+ "featured": [
+  "geo-grid-local-rank-tracker",
+  "dealer-inventory-scraper",
+  "luma-events-scraper",
+  "reddit-lead-finder",
+  "podcast-guest-finder",
+  "journalist-request-finder",
+  "github-developer-leads",
+  "email-deliverability-auditor"
+ ],
+ "faq": [
+  [
+   "Welcher Google-Maps-Scraper eignet sich am besten für Leads?",
+   "Der meistgenutzte steht ganz oben im Abschnitt Google Maps. Wählen Sie zuerst nach Nutzern pro Monat und prüfen Sie dann, ob er die benötigten Felder liefert (E-Mails und Social-Links sind oft ein zusätzlicher Schritt)."
+  ],
+  [
+   "Ist das Scrapen von Firmenkontakten DSGVO-konform?",
+   "Öffentlich zugängliche Firmendaten zu erheben ist in der Regel erlaubt. Für Speicherung und Nutzung gilt aber die DSGVO, besonders bei Daten natürlicher Personen, und für Kaltakquise per E-Mail gelten in Deutschland strenge Regeln (UWG). Prüfen Sie die Nutzungsbedingungen der Quelle und die Rechtslage vor dem Outreach."
+  ],
+  [
+   "Kann ich die Leads direkt in mein CRM schicken?",
+   "Ja. Apify ist mit HubSpot, Pipedrive per Webhook, Google Sheets, Zapier, Make und n8n verbunden, und jeder Lauf kann am Ende einen Webhook auslösen."
+  ],
+  [
+   "Brauche ich eigene Proxys oder Server?",
+   "Nein. Die Actors laufen in der Apify-Cloud und kümmern sich selbst um Proxys und Browser."
+  ]
+ ],
+ "ui": {
+  "statsLine": "**{count} Actors im Einsatz** | **{storeTotal} geprüft** | **{topics} Themen** | Aktualisiert am {today}",
+  "startFree": "Kostenlos bei Apify starten",
+  "llmsLink": "llms.txt für KI-Assistenten",
+  "customLink": "Individuelle Scraper",
+  "languages": "Sprachen",
+  "whatIs": "Worum geht es?",
+  "howItWorks": "Jeder Eintrag ist ein gehostetes Cloud-Tool (ein „Actor“) auf der Apify-Plattform: öffnen, Eingabe ausfüllen, auf Start klicken und die Ergebnisse als JSON, CSV oder Excel exportieren, oder per Apify API aus dem eigenen Code aufrufen. Jedes neue Konto erhält ein kostenloses Monatsguthaben, genug, um die meisten dieser Actors ohne Kosten zu testen.",
+  "descriptionNote": "> Titel und Beschreibungen der Actors stammen unverändert aus dem Apify Store und sind meist auf Englisch. Die Eingabeformulare akzeptieren Suchbegriffe auf Deutsch.",
+  "contents": "Inhalt",
+  "topTitle": "Die {n} meistgenutzten",
+  "topIntro": "Sortiert danach, wie viele verschiedene Personen sie in den letzten 30 Tagen gestartet haben.",
+  "colActor": "Actor",
+  "colWhat": "Was er macht",
+  "colUsers": "Nutzer pro Monat",
+  "colRating": "Bewertung",
+  "by": "von",
+  "seeAll": "Alle {n} Actors: {title}",
+  "ownTitle": "Von uns gepflegt",
+  "ownIntro": "Actors, die [{brand}]({site}) entwickelt und pflegt, das Team hinter dieser Liste. Fehler, die über den Issues-Tab bei Apify gemeldet werden, sind meist in wenigen Tagen behoben.",
+  "chooseTitle": "So wählen Sie den richtigen Actor",
+  "choose": [
+   "**Nutzer pro Monat** ist das beste Signal: Es zählt verschiedene Personen, die den Actor in den letzten 30 Tagen gestartet haben, verlassene Tools rutschen also nach unten.",
+   "**Bewertung** stammt aus den Rezensionen im Apify Store. 4,5 oder mehr bei Dutzenden Bewertungen spricht für verlässliche Daten.",
+   "**Preismodell** unterscheidet sich je nach Actor (pro Ergebnis, pro Ereignis oder Monatsmiete). Der aktuelle Preis steht immer auf der Seite des Actors, vergleichen Sie dort vor einem großen Lauf.",
+   "**Erst klein testen.** Begrenzen Sie die Eingabe auf 10 oder 20 Ergebnisse, prüfen Sie die benötigten Felder und skalieren Sie dann."
+  ],
+  "runTitle": "So starten Sie einen Actor",
+  "run": [
+   "[Kostenloses Apify-Konto anlegen]({signup}) (ohne Kreditkarte).",
+   "Einen Actor aus der Liste öffnen und auf **Try for free** klicken.",
+   "Das Eingabeformular ausfüllen (Suchbegriffe, URLs oder Filter) und auf **Start** klicken.",
+   "Ergebnisse im Tab **Output** herunterladen, oder den Actor zeitgesteuert laufen lassen und die Daten an Google Sheets, Zapier, Make, n8n oder einen Webhook senden."
+  ],
+  "fromCode": "Per Code haben alle Actors dieselbe API:",
+  "faqTitle": "Häufige Fragen",
+  "faqUpdatedQ": "Wie oft wird die Liste aktualisiert?",
+  "faqUpdatedA": "Eine GitHub Action baut sie jede Woche aus der öffentlichen Apify-Store-API neu auf. Neue Actors erscheinen, verwaiste fallen automatisch heraus.",
+  "faqAddQ": "Kann ich meinen eigenen Actor hinzufügen?",
+  "faqAddA": "Veröffentlichen Sie ihn im Apify Store in der Kategorie {category}. Sobald er genutzt wird, landet er beim nächsten wöchentlichen Update in der Liste. Kein Pull Request nötig.",
+  "customTitle": "Sie brauchen einen individuellen Scraper?",
+  "customText": "Wenn kein Actor Ihre Quelle abdeckt, entwickelt und pflegt [{brand}]({site}) individuelle Apify-Scraper. Schreiben Sie an {email} mit der Website und den benötigten Feldern.",
+  "footer": "Wenn Ihnen diese Liste Zeit gespart hat, hilft ein Stern anderen, sie zu finden. Links zu Apify enthalten einen Empfehlungscode, der die Pflege der Liste finanziert, ohne Mehrkosten für Sie.",
+  "groupPageTitle": "{title}: {n} Apify-Actors",
+  "groupPageIntro": "Teil von [{catalog}](../README.md). Sortiert nach Nutzern pro Monat. Aktualisiert am {today}.",
+  "groupPageCta": "[Kostenloses Apify-Konto anlegen]({signup}), um jeden davon zu starten.",
+  "llmsIntro": "Aktualisiert am {today}. Nutzer pro Monat = verschiedene Nutzer in den letzten 30 Tagen. Links enthalten einen Empfehlungscode.",
+  "llmsUsers": "{n} Nutzer pro Monat"
+ }
+}
