@@ -2,7 +2,7 @@
 
 > Die meistgenutzten Apify-Scraper für Leadgenerierung, sortiert nach echten Nutzern pro Monat: Unternehmen aus Google Maps, E-Mails und Telefonnummern, LinkedIn- und B2B-Daten, Gelbe Seiten, Handelsregister und Quellen aus Deutschland, Österreich und der Schweiz. Ohne Programmierung, Export als CSV, Excel oder ins CRM.
 
-**1.550 Actors im Einsatz** | **21.525 geprüft** | **10 Themen** | Aktualisiert am 2026-09-16
+**1.537 Actors im Einsatz** | **21.572 geprüft** | **10 Themen** | Aktualisiert am 2026-09-16
 
 [Kostenlos bei Apify starten](https://apify.com/?fpr=youssef) | [llms.txt für KI-Assistenten](llms.txt) | [JSON](data/actors.json) | [CSV](data/actors.csv) | [Individuelle Scraper](https://automationbyexperts.com/apify?utm_source=github&utm_medium=referral&utm_campaign=apis-scraping-leadgenerierung)
 
@@ -10,7 +10,7 @@ Sprachen: [English](https://github.com/automationbyexperts/lead-generation-scrap
 
 ## Worum geht es?
 
-Eine kuratierte, wöchentlich aktualisierte Liste der 1.550 Lead-Generation-Actors, die tatsächlich genutzt werden, ausgewählt aus den 21.525 Actors der Kategorie Lead Generation im Apify Store, plus lokale Tools für Deutschland, Österreich und die Schweiz. Actors, die in den letzten 30 Tagen niemand gestartet hat, fliegen raus, und jeder ist nach seiner Leadquelle einsortiert. So finden Sie in Sekunden ein funktionierendes Tool für lokale Akquise, B2B-Kontakte, E-Mail-Suche oder Datenanreicherung.
+Eine kuratierte, wöchentlich aktualisierte Liste der 1.537 Lead-Generation-Actors, die tatsächlich genutzt werden, ausgewählt aus den 21.572 Actors der Kategorie Lead Generation im Apify Store, plus lokale Tools für Deutschland, Österreich und die Schweiz. Actors, die in den letzten 30 Tagen niemand gestartet hat, fliegen raus, und jeder ist nach seiner Leadquelle einsortiert. So finden Sie in Sekunden ein funktionierendes Tool für lokale Akquise, B2B-Kontakte, E-Mail-Suche oder Datenanreicherung.
 
 Jeder Eintrag ist ein gehostetes Cloud-Tool (ein „Actor“) auf der Apify-Plattform: öffnen, Eingabe ausfüllen, auf Start klicken und die Ergebnisse als JSON, CSV oder Excel exportieren, oder per Apify API aus dem eigenen Code aufrufen. Jedes neue Konto erhält ein kostenloses Monatsguthaben, genug, um die meisten dieser Actors ohne Kosten zu testen.
 
@@ -19,16 +19,16 @@ Jeder Eintrag ist ein gehostetes Cloud-Tool (ein „Actor“) auf der Apify-Plat
 ## Inhalt
 
 - [Die 25 meistgenutzten](#die-25-meistgenutzten)
-- [Deutschland, Österreich und Schweiz](#deutschland-österreich-und-schweiz) (354)
-- [Google Maps und lokale Unternehmen](#google-maps-und-lokale-unternehmen) (67)
-- [E-Mail- und Kontaktfinder](#e-mail--und-kontaktfinder) (188)
+- [Deutschland, Österreich und Schweiz](#deutschland-österreich-und-schweiz) (352)
+- [Google Maps und lokale Unternehmen](#google-maps-und-lokale-unternehmen) (65)
+- [E-Mail- und Kontaktfinder](#e-mail--und-kontaktfinder) (192)
 - [LinkedIn und B2B-Profile](#linkedin-und-b2b-profile) (173)
-- [B2B-Firmendatenbanken](#b2b-firmendatenbanken) (35)
-- [Branchenverzeichnisse und Bewertungen](#branchenverzeichnisse-und-bewertungen) (53)
-- [Leads aus Social Media](#leads-aus-social-media) (279)
-- [Anreicherung und Verifizierung](#anreicherung-und-verifizierung) (32)
-- [Einstellungssignale und Jobbörsen](#einstellungssignale-und-jobbörsen) (97)
-- [Weitere Leadquellen](#weitere-leadquellen) (272)
+- [B2B-Firmendatenbanken](#b2b-firmendatenbanken) (40)
+- [Branchenverzeichnisse und Bewertungen](#branchenverzeichnisse-und-bewertungen) (59)
+- [Leads aus Social Media](#leads-aus-social-media) (278)
+- [Anreicherung und Verifizierung](#anreicherung-und-verifizierung) (31)
+- [Einstellungssignale und Jobbörsen](#einstellungssignale-und-jobbörsen) (89)
+- [Weitere Leadquellen](#weitere-leadquellen) (258)
 - [Von uns gepflegt](#von-uns-gepflegt)
 - [So wählen Sie den richtigen Actor](#so-wählen-sie-den-richtigen-actor)
 - [So starten Sie einen Actor](#so-starten-sie-einen-actor)
@@ -79,8 +79,8 @@ Lokale Leadquellen: Gelbe Seiten, Das Örtliche, 11880, Handelsregister und Nort
 | [Mobile.de Scraper (PPR)](https://apify.com/3x1t/mobile-de-scraper-ppr?fpr=youssef) <br><sub>von 3x1t</sub> | Effortlessly scrape car data from Germany's largest vehicle marketplace, Mobile.de. Get access to millions of entries of cars, motorbikes, etc... | 138 | 4 (1) |
 | [Stepstone Jobs Scraper (Germany)](https://apify.com/valig/stepstone-jobs-scraper?fpr=youssef) <br><sub>von Vali G</sub> | Scrape structured job listings from StepStone Germany with advanced filtering and rich company data | 109 | 5 (1) |
 | [Xing Jobs Scraper \| Fast & Reliable](https://apify.com/fatihtahta/xing-jobs-scraper?fpr=youssef) <br><sub>von Fatih Tahta</sub> | Extract structured Xing job listings including salaries, company data, roles, and hiring signals across DACH markets. Built for enterprise-grade... | 99 | - |
-| [Kleinanzeigen.de \| Scraper (Richest output)(PPE)](https://apify.com/memo23/kleinanzeigen-search-scraper-ppe?fpr=youssef) <br><sub>von Muhamed Didovic</sub> | extract detailed listings from Kleinanzeigen.de, saving you time by automating data collection for property, product, and service ads. It helps in... | 93 | 5 (2) |
 | [StepStone.de Scraper - Germany's Leading Job Board](https://apify.com/santamaria-automations/stepstone-de-scraper?fpr=youssef) <br><sub>von NanoScrape</sub> | Extract jobs from StepStone.de, Germany's largest job portal. Get job titles, companies, locations, descriptions, salary info & contact details... | 80 | 5 (1) |
+| [mobile.de () Fast Scraper · Finance · Dealer GPS](https://apify.com/blackfalcondata/mobile-de-scraper?fpr=youssef) <br><sub>von Black Falcon Data</sub> | Scrape mobile.de - Germany's largest car marketplace (1.4M+ listings). Get full specs, market price ratings and dealer phone & GPS; filter by... | 79 | 5 (1) |
 | [Xing Scraper - Jobs, Companies & Profiles ()](https://apify.com/memo23/xing-scraper?fpr=youssef) <br><sub>von Muhamed Didovic</sub> | Xing scraper - jobs, companies & profiles in one actor. Paste any xing.com URL (search, /jobs/{slug}, /pages/{slug}, /profile/{id}) or filter by... | 76 | 5 (1) |
 | [German Imprint Scraper & Leads Finder (Google Search)](https://apify.com/winningsolutions/german-imprint-scraper?fpr=youssef) <br><sub>von Winning Solutions</sub> | AI-powered Apify Actor that scrapes Impressum pages on German websites and extracts decision-makers (Geschäftsführer, Vorstand), validated B2B... | 74 | 5 (4) |
 | [AutoScout24 Scraper () - 930K Cars, 9 Countries](https://apify.com/blackfalcondata/autoscout24-scraper?fpr=youssef) <br><sub>von Black Falcon Data</sub> | platform usage included. Scrape autoscout24.com - Europe's largest used-car market: Germany · Austria · Italy · Spain · France · Belgium ·... | 68 | 5 (2) |
@@ -89,7 +89,7 @@ Lokale Leadquellen: Gelbe Seiten, Das Örtliche, 11880, Handelsregister und Nort
 | [Stepstone Scraper \| All-In-One](https://apify.com/fatihtahta/stepstone-scraper-fast-reliable-4-1k?fpr=youssef) <br><sub>von Fatih Tahta</sub> | Extract job postings and hiring company details at scale from Stepstone.de,.at,.be, &.nl. Use direct URLs or build searches with filters for... | 58 | 4.3 (5) |
 | [Bundesagentur für Arbeit (Arbeitsagentur) Scraper](https://apify.com/lexis-solutions/bundesagentur-fur-arbeit-arbeitsagentur-scraper?fpr=youssef) <br><sub>von Lexis Solutions</sub> | The Arbeitsagentur Scraper is a web scraping tool that retrieves public job postings from Arbeitsagentur.de. Bundesagentur für Arbeit is the official... | 52 | 5 (18) |
 
-[Alle 354 Actors: Deutschland, Österreich und Schweiz](groups/dach.md)
+[Alle 352 Actors: Deutschland, Österreich und Schweiz](groups/dach.md)
 
 ## Google Maps und lokale Unternehmen
 
@@ -110,10 +110,10 @@ Firmennamen, Adressen, Telefonnummern, Websites, Bewertungen und Rezensionen aus
 | [Google Maps Scraper - Most Comprehensive](https://apify.com/kaix/google-maps-places-scraper?fpr=youssef) <br><sub>von Kai</sub> | ~ most comprehensive Google Maps scraper available. Extract 76+ fields per place including photos, review breakdowns, owner info, contacts... | 180 | 5 (2) |
 | [Google Maps Places Extractor](https://apify.com/enckay/google-maps-places-extractor?fpr=youssef) <br><sub>von Enckay Data</sub> | Extract Places and businesses from Google Maps. Scrap phone numbers, emails, website, business hours, address and gps, Google Place ID. Use filters... | 144 | - |
 | [Google Maps Scraper](https://apify.com/boztek-ltd/google-maps-scraper?fpr=youssef) <br><sub>von Boztek LTD</sub> | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name... | 140 | 4.4 (11) |
-| [Healthcare Google Maps Scraper](https://apify.com/mukeshrana90/healthcare-google-maps-scraper?fpr=youssef) <br><sub>von Mukesh Kumar</sub> | Scrape healthcare clinics from Google Maps with emails, phone, social media, insurance, doctor count, verified NPI numbers (US), review sentiment... | 138 | 5 (1) |
 | [2gis Places Scraper](https://apify.com/m_mamaev/2gis-places-scraper?fpr=youssef) <br><sub>von Mikhail Mamaev</sub> | Извлекайте данные из тысяч мест и предприятий на 2ГИС, включая номера телефонов, соцсети, сайты. отзывы, фотографии и многое другое. Экспортируйте... | 121 | 4.8 (13) |
+| [Yandex Maps Scraper \| Парсер Яндекс Карт: Leads, Reviews & API](https://apify.com/zen-studio/yandex-maps-scraper?fpr=youssef) <br><sub>von Zen Studio</sub> | Unofficial Yandex Maps API. Scrape business data, phone numbers, emails, reviews, photos, and posts from Russia, Turkey, and CIS. Export 63+ fields... | 119 | 3.6 (6) |
 
-[Alle 67 Actors: Google Maps und lokale Unternehmen](groups/google-maps.md)
+[Alle 65 Actors: Google Maps und lokale Unternehmen](groups/google-maps.md)
 
 ## E-Mail- und Kontaktfinder
 
@@ -137,7 +137,7 @@ E-Mail-Adressen, Telefonnummern und Social-Profile aus Websites, Domains oder Na
 | [Instagram Profile Scraper - Emails, Bio Links & Post Likers](https://apify.com/afanasenko/instagram-profile-scraper?fpr=youssef) <br><sub>von Andrey Afanasenko</sub> | Scrape Instagram profiles at scale - followers and following lists, post likers and commenters, similar-account discovery, keyword and location... | 497 | 2.5 (10) |
 | [Email Verifier & Validator \| Bulk Email Verification](https://apify.com/michael.g/email-verifier-validator?fpr=youssef) <br><sub>von Michael G</sub> | Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean... | 448 | 4.7 (35) |
 
-[Alle 188 Actors: E-Mail- und Kontaktfinder](groups/email-finders.md)
+[Alle 192 Actors: E-Mail- und Kontaktfinder](groups/email-finders.md)
 
 ## LinkedIn und B2B-Profile
 
@@ -175,17 +175,17 @@ Firmendaten, Entscheider und Listen aus Apollo, Crunchbase, ZoomInfo und ähnlic
 | [Leads Finder Apollo Leads Generator](https://apify.com/olympus/leads-finder-apollo-leads-generator?fpr=youssef) <br><sub>von Olympus</sub> | Affordable ways to generate leads with emails and phone numbers like platforms similar to apollo, linkedin, zoominfo | 106 | 4.8 (22) |
 | [Apollo Companies Leads Scraper](https://apify.com/coladeu/apollo-organizations-scraper?fpr=youssef) <br><sub>von Coladeu</sub> | This API can scrape structured companies data from Apollo.io, including emails and phone numbers. It does not require Apollo account cookies or... | 103 | 1 (1) |
 | [Find Mobile Phones of Decision Makers](https://apify.com/parvenu/mobile-phone-enrichment?fpr=youssef) <br><sub>von Parvenu</sub> | Find mobile phones for decision makers for | 103 | 5.0 (3) |
+| [B2B Leads Finder \| Like Apollo](https://apify.com/themineworks/b2b-leads-finder?fpr=youssef) <br><sub>von The Mine Works</sub> | Name any company and get its people: LinkedIn profiles, business emails and phones. Searched live at run time, not resold from a shared database, so... | 100 | 5 (1) |
 | [Crunchbase Scraper - Unlimited Data No API Pricing 100% Success](https://apify.com/davidsharadbhatt/crunchbase-company-scraper?fpr=youssef) <br><sub>von David Bhatt</sub> | Extract unlimited Crunchbase data without expensive API pricing. Get funding rounds, investors, revenue, employees & contact info. 130+ fields.. No... | 78 | 4.8 (15) |
 | [Uber Eats Scraper (PPR)](https://apify.com/borderline/uber-eats-scraper-ppr?fpr=youssef) <br><sub>von borderline</sub> | Pay per result - Fast and cost-effective Uber Eats Scraper requiring just a search query and location or using stores urls. Instantly retrieve... | 70 | 5 (3) |
 | [Crunchbase Companies Scraper](https://apify.com/pratikdani/crunchbase-companies-scraper?fpr=youssef) <br><sub>von Pratik Dani</sub> | The Crunchbase Companies Overview Actor is a powerful tool that extracts comprehensive company information from Crunchbase URLs. It provides detailed... | 62 | 1.5 (4) |
 | [Crunchbase Companies Bulk Scraper No Cookies](https://apify.com/pratikdani/crunchbase-companies-bulk-scraper-no-cookies?fpr=youssef) <br><sub>von Pratik Dani</sub> | The Crunchbase Companies Overview Actor is a powerful tool that extracts comprehensive company information from Crunchbase URLs. It provides detailed... | 43 | 1 (3) |
 | [Subito.it Universal Scraper](https://apify.com/azzouzana/subito-scraper-pro-by-search-url?fpr=youssef) <br><sub>von Azzouzana</sub> | API to export Italian real estate, used cars, jobs & marketplace listings to CSV/JSON via Search URL. Extract product data, prices, images & seller... | 36 | 5 (2) |
 | [Crunchbase Company API \| Funding, Investors & Firmographics](https://apify.com/johnvc/crunchbase-company-api?fpr=youssef) <br><sub>von John</sub> | Collect Crunchbase company data as clean, structured JSON. Send one or many organization URLs and get funding, investors, industries, HQ location... | 32 | 5 (1) |
+| [Startup Fundraising Scraper: Crunchbase & B2B Leads](https://apify.com/complex_intricate_networks/fundraising-and-startup-funding-scraper?fpr=youssef) <br><sub>von CIN</sub> | Scrape daily startup funding rounds, investors, and VC deal flow from TechCrunch, Crunchbase, and FinSMEs. Export structured B2B leads to JSON or... | 31 | 5 (1) |
 | [Propwire Scraper () Real Estate Lead Extractor](https://apify.com/azzouzana/propwire-com-scraper-pro-by-search-url?fpr=youssef) <br><sub>von Azzouzana</sub> | Only - Propwire Scraper: Export real estate leads, off-market property data & wholesale deals to CSV/JSON via Search URL. Built for real estate... | 31 | 5 (2) |
-| [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper?fpr=youssef) <br><sub>von Skython</sub> | Extract complete exhibitor lists from any Map Your Show trade show - AAPEX, Pack Expo, CES, RE+, IBC, NACS Show, and more. Collect company details... | 30 | 5.0 (4) |
-| [LandWatch.com, Acreage & Agents Extractor](https://apify.com/azzouzana/landwatch-scraper?fpr=youssef) <br><sub>von Azzouzana</sub> | ! LandWatch.com Scraper: Export US land listings, farms, ranches & agent directories to CSV/JSON via Search URL. Extract 150+ data points including... | 30 | 5.0 (2) |
 
-[Alle 35 Actors: B2B-Firmendatenbanken](groups/b2b-databases.md)
+[Alle 40 Actors: B2B-Firmendatenbanken](groups/b2b-databases.md)
 
 ## Branchenverzeichnisse und Bewertungen
 
@@ -195,7 +195,6 @@ Yelp, Trustpilot, Clutch, TripAdvisor und weitere Verzeichnisse, in denen Firmen
 |---|---|---:|---|
 | [Trustpilot All Reviews Scraper + · No Cap · AI Insights](https://apify.com/memo23/trustpilot-scraper-ppe?fpr=youssef) <br><sub>von Muhamed Didovic</sub> | () Export every Trustpilot review - past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap... | 706 | 4.8 (20) |
 | [Trustpilot Reviews Scraper](https://apify.com/automation-lab/trustpilot?fpr=youssef) <br><sub>von Automation Lab</sub> | Extract Trustpilot reviews with ratings, replies, reviewer info, and company data. Tiered per-review pricing applies, plus a run start fee | 440 | 5 (1) |
-| [Trustpilot Company Search Scraper](https://apify.com/burbn/trustpilot-search-scraper?fpr=youssef) <br><sub>von Kevin</sub> | Easily search Trustpilot by keyword or industry and extract valuable company details. Generate high-quality B2B leads by scraping company names... | 356 | - |
 | [Yelp Reviews Scraper](https://apify.com/web_wanderer/yelp-reviews-scraper?fpr=youssef) <br><sub>von Billy</sub> | Easily extract Yelp business reviews at scale. This Yelp Reviews Scraper collects ratings, review text, reviewer details, timestamps, photos, and... | 197 | 5 (1) |
 | [TripAdvisor Reviews Scraper API](https://apify.com/thewolves/tripadvisor-reviews-scraper?fpr=youssef) <br><sub>von The Wolves</sub> | The Wolves proudly presents TripAdvisor Review Scraper, the perfect solution for TripAdvisor review extraction. Incredibly, it retrieves 100-200... | 159 | 5.0 (9) |
 | [All-in-One Review Scraper: G2, Capterra & Trustpilot](https://apify.com/zen-studio/software-review-scraper?fpr=youssef) <br><sub>von Zen Studio</sub> | Scrape reviews from G2, Capterra, TrustRadius, Gartner, and Trustpilot in one run. Just type a product name or domain. Get unified ratings... | 86 | 4 (1) |
@@ -208,8 +207,9 @@ Yelp, Trustpilot, Clutch, TripAdvisor und weitere Verzeichnisse, in denen Firmen
 | [Trustpilot Reviews Scraper API](https://apify.com/thewolves/trustpilot-reviews-scraper?fpr=youssef) <br><sub>von The Wolves</sub> | The Wolves proudly introduces the Trustpilot Review Scraper, an ideal tool for extracting reviews. It can gather 100-200 reviews per second, offering... | 28 | 2.4 (9) |
 | [BBB Advanced Scraper](https://apify.com/piotrv1001/bbb-advanced-scraper?fpr=youssef) <br><sub>von FalconScrape</sub> | The BBB Advanced Scraper enables quick and efficient data extraction from the Better Business Bureau website. It gathers information from business... | 26 | 4.4 (2) |
 | [Clutch.co Listings Scraper](https://apify.com/piotrv1001/clutch-listings-scraper?fpr=youssef) <br><sub>von FalconScrape</sub> | The Clutch.co Listings Scraper extracts paginated business data from Clutch.co URLs, capturing company titles, logos, hourly rates, reviews, ratings... | 23 | 1 (2) |
+| [angi.com (Angie's List) Scraper](https://apify.com/igolaizola/angi-scraper?fpr=youssef) <br><sub>von Iñigo Garcia Olaizola</sub> | Extract verified business data from Angi (formerly Angie's List) including phone numbers, ratings, and contact details for home service... | 23 | 5 (3) |
 
-[Alle 53 Actors: Branchenverzeichnisse und Bewertungen](groups/directories.md)
+[Alle 59 Actors: Branchenverzeichnisse und Bewertungen](groups/directories.md)
 
 ## Leads aus Social Media
 
@@ -233,7 +233,7 @@ Kontaktdaten und Zielgruppendaten aus Instagram-, Facebook-, TikTok-, X-, YouTub
 | [X Tweet Scraper \| Pay-Per-Result](https://apify.com/xquik/x-tweet-scraper?fpr=youssef) <br><sub>von Xquik</sub> | Scrape X (Twitter) tweets, replies, profiles, lists, and searches for on every Apify plan. Use 50+ filters, batch lookup, and flat exports. Filters... | 1.146 | 4.5 (14) |
 | [Fast Twitter (X) User Scraper API \| Extract Profiles, Followers](https://apify.com/apidojo/twitter-user-scraper?fpr=youssef) <br><sub>von API Dojo</sub> | Introducing Twitter (X) User Scraper, the ultimate solution for direct user extraction from Twitter (X). It offers blazing speed and... | 1.015 | 4.4 (16) |
 
-[Alle 279 Actors: Leads aus Social Media](groups/social-leads.md)
+[Alle 278 Actors: Leads aus Social Media](groups/social-leads.md)
 
 ## Anreicherung und Verifizierung
 
@@ -244,7 +244,6 @@ E-Mails und Telefonnummern prüfen, Domains oder Personen um Felder ergänzen un
 | [Skip Trace](https://apify.com/one-api/skip-trace?fpr=youssef) <br><sub>von ONE API</sub> | Locate hard-to-find individuals with our powerful skip trace/tracing API. TruePeopleSearch, Fastpeoplesearch, Lead Finder, Truthfinder, Spokeo... | 792 | 4.6 (32) |
 | [Username Checker - OSINT Search Across 3000+ Sites (Maigret)](https://apify.com/ntriqpro/maigret-actor?fpr=youssef) <br><sub>von daehwan kim</sub> | Enter a username and see where that handle is registered across 3000+ social, forum, gaming, dating and developer platforms - with a direct profile... | 174 | 5.0 (3) |
 | [Similarweb Scraper - Traffic, AI Traffic & WHOIS](https://apify.com/vortex_data/similarweb-scraper?fpr=youssef) <br><sub>von VortexData</sub> | Spy on any website in seconds: traffic, rankings, top keywords, AI traffic share (ChatGPT/Claude/Gemini), competitors, similar sites & WHOIS - all... | 131 | 5 (2) |
-| [Sherlock Username OSINT - Find Accounts Across 400+ Sites](https://apify.com/ntriqpro/sherlock-username-osint?fpr=youssef) <br><sub>von daehwan kim</sub> | Check 400+ social networks for a username - including Instagram, TikTok, GitHub, Reddit, X, Steam and Twitch - and get a confirmed profile URL for... | 90 | 5 (1) |
 | [Similarweb Scraper - Traffic, Audience & Competitors](https://apify.com/trakk/similarweb-scraper?fpr=youssef) <br><sub>von Kelopr_bk</sub> | Get traffic & competitor intelligence for any website - ranks, monthly visits, engagement, traffic sources, top keywords, AI-referral traffic... | 58 | - |
 | [Scout - Lead Enrichment + OSINT](https://apify.com/logical_vivacity/scout?fpr=youssef) <br><sub>von Logical Vivacity</sub> | Email finder + lead enrichment + OSINT from public sources. Pass any fragment - name, email, or domain - get a verified dossier: 700+ identity sites... | 42 | - |
 | [SimilarWeb Scraper](https://apify.com/ecomdate/similarweb-scraper?fpr=youssef) <br><sub>von Ecomdate Tech</sub> | Scrape SimilarWeb website analytics in bulk, including traffic, rankings, categories, top countries, screenshots, tags, and similar sites. Ideal for... | 42 | 4.8 (3) |
@@ -253,11 +252,12 @@ E-Mails und Telefonnummern prüfen, Domains oder Personen um Felder ergänzen un
 | [Sherlock Scraper](https://apify.com/crawlerbros/sherlock-scraper?fpr=youssef) <br><sub>von Crawler Bros</sub> | Search for usernames across 400+ social networks and websites. Find all social media accounts linked to a username using the Sherlock OSINT tool | 29 | 5 (1) |
 | [Mercadolibre Product Scraper](https://apify.com/saswave/mercadolibre-product-scraper?fpr=youssef) <br><sub>von SASWAVE</sub> | no proxies needed. Fast and reliable scraper for MercadoLibre product pages and search results. Support all domains. Perfect for competitive... | 27 | 2.7 (5) |
 | [Skip Trace](https://apify.com/twoapi/skip-trace?fpr=youssef) <br><sub>von twoapi</sub> |  | 26 | 2.9 (4) |
-| [Advanced Website Domain Name Validator](https://apify.com/saswave/advanced-website-domain-name-validator?fpr=youssef) <br><sub>von SASWAVE</sub> | Advanced domain scraper. Determine if a domain is still valid or has moved. We test multiple scenario before flagging the domain as invalid. Extract... | 8 | 5 (1) |
+| [Gartner.com () Reviews (Short URLs + Detail Enrichment)](https://apify.com/memo23/apify-gartner-scraper-ppr?fpr=youssef) <br><sub>von Muhamed Didovic</sub> | Extracts structured Gartner review data: ratings, company size, industry, job titles, detailed Q&A sections, vendor comparisons, deployment info, and... | 13 | 5.0 (6) |
 | [BizBuySell Scraper V2](https://apify.com/parseforge/bizbuysell-scraper-v2?fpr=youssef) <br><sub>von ParseForge</sub> | Scrape business-for-sale listings from BizBuySell.com by search URL or direct listing URL. Returns asking price, cash flow, EBITDA, broker name and... | 7 | 5 (3) |
 | [domain.com.au](https://apify.com/dz_omar/domain-scraper?fpr=youssef) <br><sub>von FlowExtract API</sub> | Scrape property listings from domain.com.au prices, agent contacts, nearby schools, market insights, images & floor plans. Input any search URL with... | 7 | 5.0 (2) |
+| [Welcome to the jungle scraper](https://apify.com/saswave/welcome-to-the-jungle-scraper?fpr=youssef) <br><sub>von SASWAVE</sub> | Welcome to the jungle scraper. Retrieve jobs, companies from welcometothejungle.com website and extract search results informations. Helps for Intent... | 4 | 4.1 (3) |
 
-[Alle 32 Actors: Anreicherung und Verifizierung](groups/enrichment-verification.md)
+[Alle 31 Actors: Anreicherung und Verifizierung](groups/enrichment-verification.md)
 
 ## Einstellungssignale und Jobbörsen
 
@@ -281,7 +281,7 @@ Unternehmen, die gerade einstellen: ein starkes Kaufsignal für Recruiter und de
 | [Career Site Job Listing Feed](https://apify.com/fantastic-jobs/career-site-job-listing-feed?fpr=youssef) <br><sub>von Fantastic.jobs</sub> | The perfect Job Posting Feed for high-quality real jobs! Direct postings from over 175k company career sites across 54 ATS platforms like: Workday... | 237 | 5.0 (9) |
 | [Google Jobs Scraper](https://apify.com/orgupdate/google-jobs-scraper?fpr=youssef) <br><sub>von Orgupdate</sub> | The latest and most advanced Google Job Scraper. Our Indeed, LinkedIn, and Google Jobs Scraper rolled into one. This scraper extracts real-time job... | 177 | 4.6 (2) |
 
-[Alle 97 Actors: Einstellungssignale und Jobbörsen](groups/jobs-hiring-signals.md)
+[Alle 89 Actors: Einstellungssignale und Jobbörsen](groups/jobs-hiring-signals.md)
 
 ## Weitere Leadquellen
 
@@ -293,6 +293,7 @@ Events, Marktplätze, Immobilienmakler, öffentliche Register und alle anderen N
 | [Tennis Abstract Scraper - Match History & Stats](https://apify.com/parseforge/tennis-abstract-scraper?fpr=youssef) <br><sub>von ParseForge</sub> | Reads a player's page on Tennis Abstract and returns every match listed there, one row per match: date, tournament, surface, round, the player's... | 758 | - |
 | [Taobao 淘宝 Product Detail Scraper - SKUs, Prices, Reviews](https://apify.com/zen-studio/taobao-detail-scraper?fpr=youssef) <br><sub>von Zen Studio</sub> | Extract SKUs, prices, attributes, optional reviews, images, videos, shop data, and category metadata from Taobao (淘宝) and Tmall (天猫) product URLs or... | 483 | 5.0 (2) |
 | [1688 Products Wholesale Scraper - 50+ Fields, 250+ Products/Min](https://apify.com/zen-studio/1688-wholesale-scraper?fpr=youssef) <br><sub>von Zen Studio</sub> | Extract 50+ fields per product from 1688.com at 250+ products/minute. Tiered wholesale pricing, supplier verification, factory stats, dropship... | 440 | 5 (4) |
+| [Ozon.ru Product Scraper PRO \| Парсер товаров Ozon](https://apify.com/zen-studio/ozon-scraper-pro?fpr=youssef) <br><sub>von Zen Studio</sub> | Full product data for any Ozon URL or search query - pricing, specs, variants, reviews, sellers, price history. Search with filters (price, rating... | 376 | 4.7 (6) |
 | [App Store Reviews Scraper API](https://apify.com/thewolves/appstore-reviews-scraper?fpr=youssef) <br><sub>von The Wolves</sub> | App Store Reviews Scraper is your ultimate tool to retrieve the reviews directly from the Apple Store. With extremely capable information retrieval... | 341 | 5.0 (10) |
 | [Etsy Listings Scraper - Live Carts & Ads](https://apify.com/yumitori/etsy-listings-scraper?fpr=youssef) <br><sub>von Yakugusa Yumitori</sub> | Scrape Etsy listings by keyword with data no other scraper exposes - live cart counts, "X people bought in 24h" signals, Etsy Ads slot positions... | 296 | - |
 | [Google Ads Scraper](https://apify.com/lexis-solutions/google-ads-scraper?fpr=youssef) <br><sub>von Lexis Solutions</sub> | Scrape any company's current & past Google ads - faster than any competitor with unique extra fields they don't have. Get ad copy, impressions, shown... | 243 | 4.8 (31) |
@@ -303,9 +304,8 @@ Events, Marktplätze, Immobilienmakler, öffentliche Register und alle anderen N
 | [Web Traffic Boots](https://apify.com/hung.ad4gate/web-traffic-boots?fpr=youssef) <br><sub>von Hung Dinh</sub> | Generate realistic web traffic for Google Analytics (GA) with sophisticated bot detection avoidance and human-like behavior simulation capabilities... | 163 | 5.0 (2) |
 | [Google Ads Scraper](https://apify.com/automation-lab/google-ads-scraper?fpr=youssef) <br><sub>von Automation Lab</sub> | Scrape Google Ads from the Ads Transparency Center for competitor monitoring. Search by advertiser name, domain, or ID. Get ad copy, headlines... | 161 | 5 (2) |
 | [Shopee Scraper - All In One](https://apify.com/xtracto/shopee-scraper?fpr=youssef) <br><sub>von Farhan Febrian Nauval</sub> | All-in-one Shopee scraper to extract product, search, category, and shop data across multiple countries. fast, lightweight, and no browser or account... | 159 | 4.1 (10) |
-| [eBay Scraper](https://apify.com/automation-lab/ebay-scraper?fpr=youssef) <br><sub>von Automation Lab</sub> | Scrape eBay listings for price monitoring: prices, shipping, condition, seller ratings, bids, sold counts, discounts, and images. Filter by... | 149 | 5 (1) |
 
-[Alle 272 Actors: Weitere Leadquellen](groups/other-lead-sources.md)
+[Alle 258 Actors: Weitere Leadquellen](groups/other-lead-sources.md)
 
 ## Von uns gepflegt
 
